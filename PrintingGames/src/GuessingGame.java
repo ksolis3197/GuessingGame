@@ -9,6 +9,7 @@ import java.util.InputMismatchException;
  * Periods 6/7
  */
 
+//katherin this is GREAT
 public class GuessingGame {
 	public static void main (String[]args)
 	{

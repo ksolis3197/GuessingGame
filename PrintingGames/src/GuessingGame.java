@@ -3,7 +3,11 @@ import java.lang.Math;
 
 import java.util.Scanner;
 import java.util.InputMismatchException;
-
+/*
+ * Katherin Solis
+ * Last Update 9/26/17
+ * Periods 6/7
+ */
 
 public class GuessingGame {
 	public static void main (String[]args)

@@ -10,6 +10,7 @@ import java.util.InputMismatchException;
  */
 
 //katherin this is GREAT
+//Dana has viewed this twice now.
 public class GuessingGame {
 	public static void main (String[]args)
 	{
@@ -32,7 +33,7 @@ public class GuessingGame {
 		*/
 		
 		Scanner input = new Scanner(System.in);
-		
+		//prints the prompt
 		System.out.println("My number is between 1 and 10");
 		System.out.println("Guess my number");
 		int num = (int)(Math.random()*10 +1);

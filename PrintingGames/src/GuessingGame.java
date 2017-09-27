@@ -14,6 +14,7 @@ import java.util.InputMismatchException;
  * and even made a new branch because 
  * she doesnt understand merging
 */
+
 //katherin this is GREAT
 
 //Dana has viewed this twice now.
@@ -61,4 +62,4 @@ public class GuessingGame {
 
 }
 
-
+//Comments have been added in order to descibe the process of merging 

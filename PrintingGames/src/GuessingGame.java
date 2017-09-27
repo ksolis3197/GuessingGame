@@ -14,6 +14,8 @@ import java.util.InputMismatchException;
  * and even made a new branch because 
  * she doesnt understand merging
 */
+//Katherin also forgot to add an apostrophe in "doesn't"
+
 //katherin this is GREAT
 
 //Dana has viewed this twice now.
@@ -40,7 +42,7 @@ public class GuessingGame {
 		
 		Scanner input = new Scanner(System.in);
 		
-		//prints the prompt
+		//this will print out the prompt to begin the game
 		System.out.println("My number is between 1 and 10");
 		System.out.println("Guess my number");
 		int num = (int)(Math.random()*10 +1);
@@ -55,10 +57,7 @@ public class GuessingGame {
 			System.out.println("Try Again");
 			input.nextInt();
 		}
-
 	}
-
-
 }
 
 

@@ -63,3 +63,4 @@ public class GuessingGame {
 }
 
 //Comments have been added in order to descibe the process of merging 
+//We first create a repository and then we create a branch

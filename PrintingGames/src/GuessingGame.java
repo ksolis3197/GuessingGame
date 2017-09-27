@@ -33,7 +33,6 @@ public class GuessingGame {
 		*/
 		
 		Scanner input = new Scanner(System.in);
-		
 		//prints the prompt
 		System.out.println("My number is between 1 and 10");
 		System.out.println("Guess my number");

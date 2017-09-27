@@ -9,7 +9,13 @@ import java.util.InputMismatchException;
  * Periods 6/7
  */
 
+
+/*Katherin has atempted to make a change pull 
+ * and even made a new branch because 
+ * she doesnt understand merging
+*/
 //katherin this is GREAT
+
 //Dana has viewed this twice now.
 public class GuessingGame {
 	public static void main (String[]args)
